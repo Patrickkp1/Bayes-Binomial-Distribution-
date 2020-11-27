@@ -7,7 +7,7 @@ output:
   html_document:
     df_print: paged
 ---
-## Using Bayes for Pregnancy Data
+## Using Bayes from the disease data.
 ```{r setup1, include=TRUE, echo=TRUE}
 true_neg_test_pos <- 0
 total_pos <- 0
